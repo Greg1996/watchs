@@ -1,0 +1,156 @@
+/* 
+@media (min-width: 768px) {
+	.br {
+		padding-top: 10px;
+	}
+	
+	.white-popup {
+		font-size: 3em;
+		 max-width: 60%;
+	}
+	
+	
+.head-lending {
+	font-size: 2em;
+
+}
+
+.in-lending {
+	font-size: 1.4em;
+
+}
+
+.li-lending {
+	font-size: 1.3em;
+
+	
+}
+
+.li2-lending {
+	font-size: 1.3em;
+
+}
+.contact_f { 
+		font-size: 1.5em;
+	}
+
+}
+
+@media (min-width: 1100px) {
+	
+	.white-popup {
+		font-size: 4em;
+		 max-width: 50%;
+	}
+}
+
+@media (min-width: 1800px) {
+	
+	.white-popup {
+		font-size: 4.5em;
+		 max-width: 40%;
+	}
+}
+
+@media only screen and (max-width: 767px){
+	.white-popup {
+		font-size: 2.1em;
+		 max-width: 80%;
+	}
+	
+	.head-lending {
+	font-size: 1.7em;
+	}
+
+.in-lending {
+	font-size: 1.2em;
+}
+
+.li-lending {
+	font-size: 1em;
+	}
+
+.li2-lending {
+	font-size: 1em;
+	}
+	
+	.contact_f { 
+		font-size: 1.2em;
+	}
+		
+	
+}
+
+@media only screen and (max-width: 380px){
+	.white-popup {
+		font-size: 2em;
+		 max-width: 90%;
+	}
+	
+}
+
+
+.head-lending {
+
+	font-weight: 600;
+}
+
+.in-lending {
+
+	font-weight: 600;
+}
+
+.li-lending {
+
+	font-weight: 500;
+	text-align: left;
+	padding-bottom:3%;
+	
+}
+
+.li2-lending {
+	
+	font-weight: 500;
+	text-align: left;
+}
+
+.contact_f {
+	
+	color: white;
+}
+ */
+
+
+/* POPUP */
+
+/* .white-popup {
+	
+	
+    position: relative;
+    background: black;
+
+
+	margin-left: auto;
+	margin-right: auto;
+	width: px;
+	height: 5px;
+   
+    padding-top: 20px;
+	border-radius: 20px;
+}
+ */
+/* 
+.search-pop {
+	position: relative;
+    background: black;
+
+
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	height: 200px;
+   
+    padding-top: 20px;
+	border-radius: 20px;
+} */
+/* POPUP */
